@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Image/1160177.gif</file>
+        <file>Image/1160179.gif</file>
+        <file>Image/1160180.gif</file>
+        <file>Image/1160182.gif</file>
+        <file>Image/1160184.gif</file>
+        <file>Image/1160185.gif</file>
+        <file>Image/1180881.gif</file>
+        <file>Image/1188716.gif</file>
+        <file>Image/1193404.gif</file>
+        <file>Image/1193417.gif</file>
+        <file>Image/preview.jpg</file>
+    </qresource>
+</RCC>
